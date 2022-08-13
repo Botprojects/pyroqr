@@ -1,1 +1,1 @@
-worker: python3 advancedqr.py
+worker: python3 app.py
